@@ -212,7 +212,6 @@
 				TargetAttributes = {
 					2A0484D31E9F7D7200B5C007 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = ZZKE7H6B25;
 						ProvisioningStyle = Automatic;
 					};
 					2A0484EC1E9F7D7200B5C007 = {
@@ -433,11 +432,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ZZKE7H6B25;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DragView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = tongzhu.DragView;
+				PRODUCT_BUNDLE_IDENTIFIER = well.DragView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -446,11 +445,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ZZKE7H6B25;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DragView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = tongzhu.DragView;
+				PRODUCT_BUNDLE_IDENTIFIER = well.DragView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
